@@ -38,6 +38,9 @@ The dashboard helps analyze:
 - Customer Segment Contribution
 - Monthly Growth Trends
 
+- ## Live Project Link
+[View Project Repository](https://github.com/buildwithakif/Superstore-Sales-Dashboard)
+
 ## How to Use
 1. Download the repository files.
 2. Open the `.pbix` file in Power BI Desktop.
