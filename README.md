@@ -20,6 +20,10 @@ This project is an interactive Power BI dashboard built using the Super Store Sa
 ## Dataset
 The project uses the Super Store Sales dataset for data visualization and business analysis.
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-1.png)
+
 ## Project Files
 - `Super Store Sales Dashboard.pbix` → Main Power BI dashboard
 - `SuperStore_Sales_Dataset.csv` → Dataset used in the project
