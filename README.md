@@ -38,21 +38,3 @@ The dashboard helps analyze:
 2. Open the `.pbix` file in Power BI Desktop.
 3. Refresh the dataset if needed.
 4. Explore the interactive dashboard visuals.
-
-## Repository Structure
-
-super-store-sales-dashboard/
-│
-├── Super Store Sales Dashboard.pbix
-├── SuperStore_Sales_Dataset.csv
-├── images/
-│   └── dashboard-preview.png
-└── README.md
-
-## Future Improvements
-- Add more KPIs and advanced DAX measures
-- Improve dashboard design and user experience
-- Integrate real-time data sources
-
-## Author
-Akif
