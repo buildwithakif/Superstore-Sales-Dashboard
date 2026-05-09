@@ -22,7 +22,7 @@ The project uses the Super Store Sales dataset for data visualization and busine
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-1.png)
+![Dashboard Preview](dashboard-1.png)(dashboard-2.png)
 
 ## Project Files
 - `Super Store Sales Dashboard.pbix` → Main Power BI dashboard
